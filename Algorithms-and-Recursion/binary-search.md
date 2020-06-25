@@ -24,6 +24,8 @@ public class BinarySearch extends ConsoleProgram
     int low = 0;
     int high = listNums.length-1;
     
+    //This change was made on 6/24/20 for Coursera Data Science
+    
     // Start iterating over the array to search for our key
     while(low <= high)
     {
